@@ -618,7 +618,7 @@ const points: Point[] = [];
               className="text-center mb-16"
             >
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Let's <span className="bg-gradient-to-r from-purple-400 to-indigo-400 bg-clip-text text-transparent">Connect</span>
+                Let&apos;s <span className="bg-gradient-to-r from-purple-400 to-indigo-400 bg-clip-text text-transparent">Connect</span>
               </h2>
               <div className="w-16 h-1 bg-gradient-to-r from-purple-500 to-indigo-500 mx-auto rounded-full" />
             </motion.div>
@@ -634,7 +634,7 @@ const points: Point[] = [];
                 <h3 className="text-xl font-semibold text-purple-300">Get In Touch</h3>
                 <p className="text-gray-400">
                   Interested in working together or have a project in mind? 
-                  I'm always open to discussing new opportunities and collaborations.
+                  I&apos;m always open to discussing new opportunities and collaborations.
                 </p>
                 
                 <div className="space-y-4">
